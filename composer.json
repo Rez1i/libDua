@@ -1,5 +1,5 @@
 {
-    "name": "abel/labhello",
+    "name": "rezigans/labhello",
     "description": "pembuatan library sederhana",
     "type": "library",
     "license": "mit",
@@ -10,5 +10,8 @@
         }
     ],
     "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"abel\\labhello\\" : "src/"}
+    },
     "require": {}
 }
