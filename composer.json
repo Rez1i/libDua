@@ -1,0 +1,14 @@
+{
+    "name": "abel/labhello",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Muhammad Abel Al-fahrezi",
+            "email": "abelalfahrezi11@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
